@@ -35,7 +35,7 @@ A Tokyo Night theme for the <a href="https://github.com/sddm/sddm">SDDM Login Ma
    ```
 
 ### Arch Linux
-This theme is available on the [AUR](https://aur.archlinux.org/packages/sddm-theme-tokyo-night), you can install it with `makepkg` or using an AUR helper.
+This theme is available on the [AUR](https://aur.archlinux.org/packages/sddm-theme-tokyo-night-git), you can install it with `makepkg` or using an AUR helper.
 
 ```sh
 git clone https://aur.archlinux.org/sddm-theme-tokyo-night.git
